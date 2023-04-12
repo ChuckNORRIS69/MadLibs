@@ -1,0 +1,12 @@
+const readline = require('readline-sync');
+let myList=[];
+myList.push(readline.question('Enter a noun:'));
+myList.push(readline.question('Enter a noun:'));
+myList.push(readline.question('Enter a noun:'));
+myList.push(readline.question('Enter a noun:'));
+myList.push(readline.question('Enter a noun:'));
+myList.push(readline.question('Enter a noun:'));
+myList.push(readline.question('Enter a number:'));
+myList.push(readline.question('Enter a noun:'));
+myList.push(readline.question('Enter a noun:'));
+myList.push(readline.question('Enter a noun:'));
